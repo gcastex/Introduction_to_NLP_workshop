@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/gcastex/Introduction_to_NLP_workshop
 ">
-    <img src="Figures/nlp_book.png" alt="Logo" width="490" height="464">
+    <img src="Figures/nlp_book.png" alt="Logo" width="323" height="306">
   </a>
 
   <h3 align="center">Introduction to NLP</h3>
